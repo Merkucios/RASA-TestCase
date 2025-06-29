@@ -1,0 +1,8 @@
+.git*
+bin
+Dockerfile
+docs
+**.gitkeep
+docker/**.md
+example/**
+.env
